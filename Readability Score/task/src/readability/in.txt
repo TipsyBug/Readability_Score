@@ -1,0 +1,1 @@
+This program allows user to calculate the readability score of the text in a file (the path is accepted as a console parameter) and outputs the recommended age to understand it. It also counts the number of sentences, words, characters (without spaces), syllables and polysyllables.
