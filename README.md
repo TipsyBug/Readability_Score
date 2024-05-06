@@ -35,14 +35,14 @@ parameter) and outputs the recommended age to understand it. It also counts the 
 Words: 45
 Sentences: 2
 Characters: 238
-Syllables: 85
-Polysyllables: 6
+Syllables: 80
+Polysyllables: 10
 Enter the score you want to calculate (ARI, FK, SMOG, CL, all): all
 
-Automated Readability Index: 14.73 (about 0 year olds).
-Flesch-Kincaid readability tests: 15.47 (about 0 year olds).
-Simple Measure of Gobbledygook: 13.02 (about 25 year olds).
-Coleman-Liau index: 13.98 (about 25 year olds).
-This text should be understood in average by 31.25 year olds.
+Automated Readability Index: 14.73 (about 25 year olds).
+Flesch-Kincaid rename.readability tests: 14.16 (about 25 year olds).
+Simple Measure of Gobbledygook: 15.90 (about 25 year olds).
+Coleman-Liau index: 13.98 (about 24 year olds).
+This text should be understood in average by 24.75 year olds.
 
 ```
