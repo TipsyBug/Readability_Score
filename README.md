@@ -16,16 +16,16 @@ This program requires Java to compile and run.
 ## Installation
 
 - Download this repository and unzip the .zip file in your desired location.
-- Using the command line, navigate to \Readability Score\task\src\
-- Compile the program using the command ```javac readability/Main.java```.
-- Run the program using the command ```java -cp . readability.Main "C:\Users\...\Readability Score\task\src\readability\in.txt"```.
+- Open a terminal, then enter ```cd "Readability Score\task\src"```.
+- Compile the program using the command ```javac readability\Main.java```.
+- Run the program using the command ```java readability.Main readability\in.txt```.
 
 ## Example of use
 
 The symbol > represents the user input. Notice that it's not the part of the input.
 
 ```
-> java -cp . readability.Main "C:\Users\...\Readability Score\task\src\readability\in.txt"
+> java readability.Main readability\in.txt
 
 The text is:
 This program allows user to calculate the readability score of the text in a file (the path is accepted as a console 
